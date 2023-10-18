@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "Prueba\Prueba.csproj", "{CDA54490-3C04-447E-B49A-17727373E924}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creador JSON", "Prueba\Creador JSON.csproj", "{CDA54490-3C04-447E-B49A-17727373E924}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
